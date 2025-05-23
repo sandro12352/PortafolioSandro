@@ -38,8 +38,8 @@ div>.abrirCertificado:hover p{
 }
 
 .imagen-proyecto:hover{
-    transform: scale(1.05);
-    transition: all .2s ease;
+    transform: scale(1.02);
+    transition:0.3s ease-in-out;
     
 }
 
@@ -69,6 +69,13 @@ div>.abrirCertificado:hover p{
     text-decoration: none;
    color: #ffffffff;
 }
+
+.ir-link1{
+    text-decoration: none;
+   color: #000;
+}
+
+
 
 .ir-link:hover{
     color:#76aaff;
